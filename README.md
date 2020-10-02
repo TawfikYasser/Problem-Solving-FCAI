@@ -6,4 +6,4 @@ then push them here to the repository following [Contributing Rules](https://git
 
 * This repo will be as a reference for FCAI Students. 
 
-`FCAI` LICENSE
+`FCAI` LICENSE.
